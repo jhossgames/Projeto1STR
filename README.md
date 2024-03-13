@@ -4,7 +4,7 @@ Este programa simula o comportamento de um cruzamento ferroviário controlado po
 
 ## Funcionalidades
 
-- **Modelagem dos Trens:** Cada trem é representado por uma thread e pode ter uma das três prioridades: alta, média ou baixa.
+- **Modelagem dos Trens:** Cada trem é representado por uma thread e pode ter uma das três prioridades: alta(3), média(2) ou baixa(1).
 - **Controle de Acesso:** O acesso ao cruzamento é controlado por semáforos. Apenas um trem pode passar pelo cruzamento por vez.
 - **Priorização:** Trens com prioridade mais alta têm preferência para cruzar o cruzamento.
 - **Interface de Usuário:** O programa exibe mensagens indicando o estado atual dos trens e a situação do cruzamento.
