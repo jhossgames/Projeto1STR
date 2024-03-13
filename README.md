@@ -22,12 +22,12 @@ Este programa simula o comportamento de um cruzamento ferroviário controlado po
 
 ## Exemplo de Saída
 
-(Trem 1 (Prioridade 2) está se aproximando do cruzamento vindo de A1 e indo para A2.
+Trem 1 (Prioridade 2) está se aproximando do cruzamento vindo de A1 e indo para A2.
 Trem 2 (Prioridade 1) está se aproximando do cruzamento vindo de B1 e indo para B2.
 Trem 1 está cruzando o cruzamento.
 Trem 1 cruzou o cruzamento.
 Trem 2 está cruzando o cruzamento.
-Trem 2 cruzou o cruzamento.)
+Trem 2 cruzou o cruzamento.
 
 ## Contribuindo
 
